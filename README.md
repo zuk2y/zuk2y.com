@@ -10,4 +10,4 @@ Github Actionsを用いた自動デプロイに対応しており、masterブラ
 
 ## 利用技術
 
-HTML,CSS,AWS(S3,Cloud Front,Route 53,ACM,IAM),Github Actions
+HTML, CSS, AWS(S3, Cloud Front, Route 53, ACM, IAM), Github Actions
