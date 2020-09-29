@@ -8,6 +8,6 @@
 
 Github Actionsを用いた自動デプロイに対応しており、masterブランチへのmergeが発生すると[deproy_targets](https://github.com/zuk2y/zuk2y.com/tree/master/deproy_targets)配下の資材が自動でS3バケットへ配置されます。
 
-## 技術要素
+## 利用技術
 
-HTML,CSS,AWS(S3,IAM),Github Actions
+HTML,CSS,AWS(S3,Cloud Front,Route 53,ACM,IAM),Github Actions
